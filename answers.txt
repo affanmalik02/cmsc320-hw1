@@ -1,0 +1,4 @@
+What is the difference between a merge and a rebase?
+
+A merge uploads your local branch to the main branch,
+while a rebase is for when you want to update the start of your branch to a later commit that happend after you branched out.
